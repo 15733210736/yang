@@ -1,2 +1,2 @@
 # yang
-杨春科第一个git
+yck first it
